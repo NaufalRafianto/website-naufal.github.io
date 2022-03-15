@@ -18,6 +18,7 @@ tabsContainer. addEventListener("click", (e) =>{
 const navToggler = document.querySelector('.nav-toggler');
 navToggler.addEventListener('click', () => {
     hideSection();
+    toggleNavbar();
 });
 
 function hideSection(){

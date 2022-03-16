@@ -1116,7 +1116,7 @@ button{
 }
 @media (max-width:575px) {
     .section-title h2,
-    .header .nav-innerul li a{
+    .header .nav-inner ul li a{
         font-size: 35px;
     }
     .home-text h1{
